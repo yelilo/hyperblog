@@ -1,1 +1,1 @@
-Esta es la
+Este es el curso profesional de Git y github
