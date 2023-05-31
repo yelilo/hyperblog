@@ -1,7 +1,1 @@
-Este es el curso profesional de Git y github.
-
-Agregamos una hoja de html y una hoja de estilos al proyecto 1
-
-Este es un curso completo
-
-podemos agregar mas cambios para generar otro commit
+Este es el curso profesional de Git y github
