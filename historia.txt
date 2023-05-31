@@ -1,1 +1,5 @@
-Este es el curso profesional de Git y github
+Este es el curso profesional de Git y github.
+
+Agregamos una hoja de html y una hoja de estilos al proyecto 1
+
+Este es un curso completo
